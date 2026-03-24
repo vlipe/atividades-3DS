@@ -1,4 +1,4 @@
-### Atividades do Terceiro Ano do Curso de Desenvolvimento de Sistemas - ETEC da Zona Leste
+### Atividades do Segundo Ano do Curso de Desenvolvimento de Sistemas - ETEC da Zona Leste
 
 ___
 
