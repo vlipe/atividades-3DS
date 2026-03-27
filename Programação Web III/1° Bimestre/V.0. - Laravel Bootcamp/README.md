@@ -37,6 +37,13 @@
 
 #
 
+### Capturas de tela da aplicação
+
+<img src="https://github.com/vlipe/atividades-3DS/blob/b831969ccfc5a9127b698bef254e08130b42c2c2/Programa%C3%A7%C3%A3o%20Web%20III/1%C2%B0%20Bimestre/V.0.%20-%20Laravel%20Bootcamp/projeto-pw3/public/imagens/print-1.png">
+<img src="https://github.com/vlipe/atividades-3DS/blob/b831969ccfc5a9127b698bef254e08130b42c2c2/Programa%C3%A7%C3%A3o%20Web%20III/1%C2%B0%20Bimestre/V.0.%20-%20Laravel%20Bootcamp/projeto-pw3/public/imagens/print-2.png">
+<img src="https://github.com/vlipe/atividades-3DS/blob/b831969ccfc5a9127b698bef254e08130b42c2c2/Programa%C3%A7%C3%A3o%20Web%20III/1%C2%B0%20Bimestre/V.0.%20-%20Laravel%20Bootcamp/projeto-pw3/public/imagens/print-3.png">
+<img src="https://github.com/vlipe/atividades-3DS/blob/b831969ccfc5a9127b698bef254e08130b42c2c2/Programa%C3%A7%C3%A3o%20Web%20III/1%C2%B0%20Bimestre/V.0.%20-%20Laravel%20Bootcamp/projeto-pw3/public/imagens/print-4.png">
+
 ### Como rodar o projeto localmente
 
 Siga os passos abaixo para configurar o ambiente:
