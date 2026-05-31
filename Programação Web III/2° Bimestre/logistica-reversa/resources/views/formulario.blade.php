@@ -26,8 +26,12 @@
 
             <form action="{{ route('descarte.salvar') }}" method="POST" class="space-y-5">
 
-                @csrf
-
+                <!-- REQUISITO OBRIGATÓRIO: CSRF PROTECTION -->
+    <!-- Comentário no Algoritmo: A diretiva @csrf gera um token criptografado único para esta sessão.
+         O middleware do Laravel valida esse token no envio do POST para garantir que a requisição
+         partiu genuinamente do nosso site, bloqueando ataques de falsificação (Cross-Site Request Forgery). -->
+    @csrf
+    
                 <div>
                     <label class="block text-sm text-gray-400 mb-1">Seu Nome Completo</label>
                     <input type="text" name="nome_usuario" required class="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-2 focus:outline-none focus:border-emerald-500 text-white">
