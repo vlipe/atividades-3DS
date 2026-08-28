@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+    
+@font-face {
+    font-family: 'Coolvetica';
+    src: url('/fontes/Coolvetica-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
